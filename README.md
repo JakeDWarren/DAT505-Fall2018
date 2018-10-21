@@ -1,3 +1,3 @@
 # DAT505-Fall2018
 
-New changes
+Creative coding examples using the Three.js library (threejs.org)
